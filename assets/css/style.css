@@ -573,7 +573,7 @@
 	}
 
 		#header h1 {
-			padding: 0 0 2.75em 0;
+			padding:unset;
 			margin: 0;
 }
 
